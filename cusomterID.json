@@ -1,0 +1,599 @@
+{
+  "customer" : [
+    {
+      "name" : "android-acer",
+      "value" : "1636563812"
+    },
+  
+    {
+      "name" : "android-vsun",
+      "value" : "398650244"
+    },
+    
+    {
+      "name" : "android-atlas",
+      "value" : "1075832347"
+    },
+    
+    {
+      "name" : "android-advandigital",
+      "value" : "1122625632"
+    },
+  
+    {
+      "name" : "android-allview",
+      "value" : "33572414"
+    },
+    
+    {
+      "name" : "android-arcelik",
+      "value" : "1104507214"
+    },
+    
+    {
+      "name" : "android-blu",
+      "value" : "1546146369"
+    },
+  
+    {
+      "name" : "android-bird",
+      "value" : "1319809990"
+    },
+    
+    {
+      "name" : "android-blackshark",
+      "value" : "102576596"
+    },
+    
+    {
+      "name" : "android-bmobile",
+      "value" : "1895437467"
+    },
+  
+    {
+      "name" : "android-bullitt",
+      "value" : "225975962"
+    },
+    
+    {
+      "name" : "android-chinoe",
+      "value" : "90689624"
+    },
+
+    {
+      "name" : "android-ckt",
+      "value" : "951708833"
+    },
+  
+    {
+      "name" : "android-coship",
+      "value" : "445570242"
+    },
+    
+    {
+      "name" : "android-caron",
+      "value" : "1205276917"
+    },
+    
+    {
+      "name" : "android-casper",
+      "value" : "1706609843"
+    },
+  
+    {
+      "name" : "android-cellprime",
+      "value" : "110363006"
+    },
+    
+    {
+      "name" : "android-chenyee",
+      "value" : "755376482"
+    },
+    
+    {
+      "name" : "android-cherrymobile",
+      "value" : "113472555"
+    },
+  
+    {
+      "name" : "android-condor",
+      "value" : "926269940"
+    },
+    
+    {
+      "name" : "android-vexmobile",
+      "value" : "517589116"
+    },
+    
+    {
+      "name" : "android-cubot",
+      "value" : "63250314"
+    },
+  
+    {
+      "name" : "android-doogee",
+      "value" : "184821794"
+    },
+    
+    {
+      "name" : "android-datalogic",
+      "value" : "858978427"
+    },
+    
+    {
+      "name" : "android-dewav",
+      "value" : "1182321794"
+    },
+  
+    {
+      "name" : "android-dingqin",
+      "value" : "1970108374"
+    },
+    
+    {
+      "name" : "android-droi",
+      "value" : "1064317212"
+    },
+    
+    {
+      "name" : "android-ecs",
+      "value" : "425025507"
+    },
+  
+    {
+      "name" : "android-elotouch",
+      "value" : "2036629281"
+    },
+    
+    {
+      "name" : "android-eastaeon",
+      "value" : "2067494815"
+    },
+    
+    {
+      "name" : "android-emdoor",
+      "value" : "2093096209"
+    },
+  
+    {
+      "name" : "android-evercoss",
+      "value" : "1720799140"
+    },
+    
+    {
+      "name" : "android-everex",
+      "value" : "1910527267"
+    },
+    
+    {
+      "name" : "android-evertrade",
+      "value" : "80013356"
+    },
+  
+    {
+      "name" : "android-evolio",
+      "value" : "1633940055"
+    },
+    
+    {
+      "name" : "android-fortuneship",
+      "value" : "766230503"
+    },
+
+    {
+      "name" : "android-fih",
+      "value" : "793594"
+    },
+  
+    {
+      "name" : "android-gmphone",
+      "value" : "2031542112"
+    },
+    
+    {
+      "name" : "android-getac",
+      "value" : "2133907961"
+    },
+    
+    {
+      "name" : "android-gigaset",
+      "value" : "1977056148"
+    },
+  
+    {
+      "name" : "android-ginzzu",
+      "value" : "1178050750"
+    },
+    
+    {
+      "name" : "android-gionee",
+      "value" : "890372625"
+    },
+    
+    {
+      "name" : "android-groupsfit",
+      "value" : "1099803199"
+    },
+  
+    {
+      "name" : "android-gstone",
+      "value" : "1111522726"
+    },
+    
+    {
+      "name" : "android-hct",
+      "value" : "335945734"
+    },
+    
+    {
+      "name" : "android-hongyu",
+      "value" : "1891072921"
+    },
+  
+    {
+      "name" : "android-hena",
+      "value" : "1894731714"
+    },
+    
+    {
+      "name" : "android-huaqin",
+      "value" : "1279374193"
+    },
+    
+    {
+      "name" : "android-iris",
+      "value" : "868382514"
+    },
+  
+    {
+      "name" : "android-infocus",
+      "value" : "1166258887"
+    },
+    
+    {
+      "name" : "android-innjoo",
+      "value" : "291583746"
+    },
+    
+    {
+      "name" : "android-intex",
+      "value" : "1001286898"
+    },
+  
+    {
+      "name" : "android-italcom",
+      "value" : "86967495"
+    },
+    
+    {
+      "name" : "android-jaina",
+      "value" : "551056508"
+    },
+    
+    {
+      "name" : "android-joyar",
+      "value" : "124046742"
+    },
+  
+    {
+      "name" : "android-karbonn",
+      "value" : "378020878"
+    },
+    
+    {
+      "name" : "android-letv",
+      "value" : "527897932"
+    },
+    
+    {
+      "name" : "android-leagoo",
+      "value" : "1969935440"
+    },
+  
+    {
+      "name" : "android-lexibook",
+      "value" : "1281248046"
+    },
+    
+    {
+      "name" : "android-lucina",
+      "value" : "348575834"
+    },
+
+    {
+      "name" : "android-m4tel",
+      "value" : "1036043647"
+    },
+  
+    {
+      "name" : "android-masscom",
+      "value" : "1107602250"
+    },
+    
+    {
+      "name" : "android-msi",
+      "value" : "431992753"
+    },
+    
+    {
+      "name" : "android-malata",
+      "value" : "1667922705"
+    },
+  
+    {
+      "name" : "android-meitu",
+      "value" : "978396884"
+    },
+    
+    {
+      "name" : "android-meizu",
+      "value" : "943484083"
+    },
+    
+    {
+      "name" : "android-mobistar",
+      "value" : "145864050"
+    },
+  
+    {
+      "name" : "android-mustek",
+      "value" : "1131964615"
+    },
+    
+    {
+      "name" : "android-myphone",
+      "value" : "1501998776"
+    },
+    
+    {
+      "name" : "android-nextbit",
+      "value" : "1094788975"
+    },
+  
+    {
+      "name" : "android-bbmerahputih",
+      "value" : "1153249631"
+    },
+    
+    {
+      "name" : "android-panasonic",
+      "value" : "388809557"
+    },
+    
+    {
+      "name" : "android-pegatron",
+      "value" : "1989759311"
+    },
+  
+    {
+      "name" : "android-freetel",
+      "value" : "1431823822"
+    },
+    
+    {
+      "name" : "android-polaroid",
+      "value" : "733784261"
+    },
+    
+    {
+      "name" : "android-polytron",
+      "value" : "1287892748"
+    },
+  
+    {
+      "name" : "android-prestigio",
+      "value" : "1640128215"
+    },
+    
+    {
+      "name" : "android-qmobile",
+      "value" : "1991971767"
+    },
+    
+    {
+      "name" : "android-quanta",
+      "value" : "1546773411"
+    },
+  
+    {
+      "name" : "android-regentek",
+      "value" : "823710574"
+    },
+    
+    {
+      "name" : "android-razer",
+      "value" : "1428893888"
+    },
+    
+    {
+      "name" : "android-revoview",
+      "value" : "1081752628"
+    },
+  
+    {
+      "name" : "android-sharp",
+      "value" : "386829386"
+    },
+    
+    {
+      "name" : "android-spc",
+      "value" : "1856483400"
+    },
+
+    {
+      "name" : "android-sangfei",
+      "value" : "343770321"
+    },
+  
+    {
+      "name" : "android-sanmu",
+      "value" : "561810982"
+    },
+    
+    {
+      "name" : "android-senwa",
+      "value" : "1098040870"
+    },
+    
+    {
+      "name" : "android-sirin",
+      "value" : "1389026014"
+    },
+  
+    {
+      "name" : "android-skydevices",
+      "value" : "1911986321"
+    },
+    
+    {
+      "name" : "android-socialmobile",
+      "value" : "619240530"
+    },
+    
+    {
+      "name" : "android-spice",
+      "value" : "495538321"
+    },
+  
+    {
+      "name" : "android-sprocomm",
+      "value" : "823849175"
+    },
+    
+    {
+      "name" : "android-swipe",
+      "value" : "157501998"
+    },
+    
+    {
+      "name" : "android-tplink",
+      "value" : "1290527535"
+    },
+  
+    {
+      "name" : "android-tpv",
+      "value" : "546030346"
+    },
+    
+    {
+      "name" : "android-techain",
+      "value" : "1335692134"
+    },
+    
+    {
+      "name" : "android-tesla",
+      "value" : "437497149"
+    },
+    
+    {
+      "name" : "android-tinno",
+      "value" : "708429460"
+    },
+    
+    {
+      "name" : "android-topwell",
+      "value" : "197741540"
+    },
+  
+    {
+      "name" : "android-trimble",
+      "value" : "900395027"
+    },
+    
+    {
+      "name" : "android-bestone",
+      "value" : "2025854193"
+    },
+    
+    {
+      "name" : "android-ubiqconn",
+      "value" : "1831130081"
+    },
+  
+    {
+      "name" : "android-ubiquiti",
+      "value" : "1721605888"
+    },
+    
+    {
+      "name" : "android-uniscope",
+      "value" : "2132989229"
+    },
+    
+    {
+      "name" : "android-vanzo",
+      "value" : "639357380"
+    },
+    
+    {
+      "name" : "android-vestel",
+      "value" : "1352184334"
+    },
+    
+    {
+      "name" : "android-videocon",
+      "value" : "1416320074"
+    },
+  
+    {
+      "name" : "android-newtree",
+      "value" : "1357253870"
+    },
+    
+    {
+      "name" : "android-scadvanced",
+      "value" : "1440479984"
+    },
+    
+    {
+      "name" : "android-walton",
+      "value" : "1544795826"
+    },
+  
+    {
+      "name" : "android-wheatek",
+      "value" : "1360447868"
+    },
+    
+    {
+      "name" : "android-wind",
+      "value" : "1685970301"
+    },
+    
+    {
+      "name" : "android-wistron",
+      "value" : "576953918"
+    },
+    
+    {
+      "name" : "android-xplore",
+      "value" : "1669931783"
+    },
+    
+    {
+      "name" : "android-zenmobile",
+      "value" : "1516809952"
+    },
+  
+    {
+      "name" : "android-ziox",
+      "value" : "1983305274"
+    },
+    
+    {
+      "name" : "android-zound",
+      "value" : "717966446"
+    },
+    
+    {
+      "name" : "android-fujitsu",
+      "value" : "1152256630"
+    },
+    
+    {
+      "name" : "android-wingtech",
+      "value" : "1857572225"
+    }
+    
+  ]
+}
