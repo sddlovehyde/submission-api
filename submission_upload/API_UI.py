@@ -1,6 +1,5 @@
 #!/usr/bin/env python3.7
 #  -*- coding: utf-8 -*-
-import tk as tk
 from submission_upload.submission_API import *
 try:
     from Tkinter import *
