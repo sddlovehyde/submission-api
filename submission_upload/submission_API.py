@@ -122,7 +122,7 @@ def GetResponseAndCloseConection(conn):
 
 
 def DumpResponseAndCloseConection(conn):
-    resp = conn.getresponse().read()
+    resp = conn.getresponse().read().decode('UTF-8')
     print('the response is:\n' + resp)
     conn.close()
 
